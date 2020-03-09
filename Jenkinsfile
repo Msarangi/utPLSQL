@@ -5,7 +5,6 @@ pcfPipeline
     sonarProjectKey             = 'ut:pl:sql'
     sonarProjectVersion         = '1.0'
     sonarProjectLanguage        = 'plsql'
-    executeStructure101         = 'YES'
     sonarSources                = 'source'
     executeSonar                = 'YES'
     }

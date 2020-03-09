@@ -7,4 +7,5 @@ pcfPipeline
     sonarProjectLanguage        = 'plsql'
     sonarSources                = 'source'
     executeSonar                = 'YES'
+    nexusIQ_AppName             = 'utPLSQL'
     }

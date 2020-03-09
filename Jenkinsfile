@@ -8,5 +8,5 @@ pcfPipeline
     sonarSources                = 'source'
     executeSonar                = 'YES'
     nexusIQ_AppName             = 'utPLSQL'
-    package_Path                = 'Workspace/*.zip'
+    package_Path                = '/*.zip'
     }
